@@ -21,7 +21,7 @@ Update the path manually to point to your local version of the Excel file.
 Example:
 
 From:
-C:\Users\Creator\Documents\Project\data\headcount_data.xlsx
+C:\Users\user\Documents\Morgan Stanley PBI Excel.xlsx
 
 To:
 D:\MyProjects\HeadcountDashboard\data\headcount_data.xlsx
