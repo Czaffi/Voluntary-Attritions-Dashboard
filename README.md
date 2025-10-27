@@ -19,6 +19,7 @@ git clone https://github.com/<your-org-or-username>/<repo-name>.git
 Go to Transform Data → Data Source Settings → Change Source...
 Update the path manually to point to your local version of the Excel file.
 Example:
+
 From:
 C:\Users\Creator\Documents\Project\data\headcount_data.xlsx
 
