@@ -2,7 +2,7 @@
 
 This repository contains a Power BI template (`.pbit`) and an Excel data source used to visualize headcount metrics such as start headcount, voluntary turnover, and related KPIs.
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 Before using the Power BI template, you need to update the **file path** to the Excel data source on your own computer.  
 By default, the `.pbit` file references the Excel file using the **local path** from the creator’s machine.  
@@ -24,7 +24,7 @@ From:
 C:\Users\user\Documents\Morgan Stanley PBI Excel.xlsx
 
 To:
-D:\MyProjects\HeadcountDashboard\data\headcount_data.xlsx
+D:\MyProjects\HeadcountDashboard\data\Morgan Stanley PBI Excel.xlsx
 ### 3. Apply changes and refresh the data
 After updating the file path, click Close & Apply, then refresh the report.
 Your Power BI dashboard should now load all the data correctly.
